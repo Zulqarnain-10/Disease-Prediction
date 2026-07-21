@@ -1,4 +1,4 @@
- # Disease Prediction
+# Disease Prediction
 
 *A machine-learning model that predicts disease likelihood from patient health data.*
 
